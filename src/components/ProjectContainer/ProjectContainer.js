@@ -25,7 +25,12 @@ const ProjectContainer = () => {
             desc:"It is a gaming platform I am created a snake game for childrens like and play for  platfomr",
             link:"https://drajkumard.github.io/red-store-shopping-website/",
         },
-        
+        {
+            img:"https://www.shutterstock.com/image-photo/woman-workplace-manager-doing-business-260nw-1765316327.jpg",
+            title:"Adminpanel",
+            desc:"It is Admin panel I am using materila-ui for ui design and json server is used to store the datas employee list to add the crud operations and chart is added for ui graph to achieve the user analytics",
+            link:"https://drajkumard.github.io/adminpanel/",
+        },
     
         
     ];
